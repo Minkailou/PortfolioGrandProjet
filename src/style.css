@@ -1,6 +1,4 @@
-body{
-    padding: 0;
-    margin: 0;
-    color: black;
-    
-}
+/* ./your-css-folder/styles.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
